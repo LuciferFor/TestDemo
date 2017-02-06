@@ -2,4 +2,6 @@
 
 ## 我是md文件
 
-make configure
+## make configure
+
+添加了目录
